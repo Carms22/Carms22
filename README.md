@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carmen García</h1>
 <h3 align="center">A Full Stack Developer from Madrid</h3>
-<h2> </h2>
+<h2 align="center"><strong>My background:</strong>I am a Full Stack Web Developer with Building Engineer degree and 6 years of experience as BIM modeller working in a team ,solving problems and I'm a hard worker with a " yes I can" in my mind.</h2>
+<h2 align="center"><strong>My motivations:</strong>I love learning new things and in the past years I haver been studing some programing curses to improving my carrer , until I realize that I really like it and  it was time to jump into it and being a programer.
+I really love solving problems, learning every day new things and becoming better in what I do.</h2>
+<h2 align="center"><strong>My career plans:</strong>I would love to build on the knowledge gained at the bootcamp and learn as much as I can with the support of the team and become a great full stack developer.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carms22&label=Profile%20views&color=0e75b6&style=flat" alt="carms22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carms22" alt="carms22" /></a> </p>
 
 - 🔭 I’m currently working on [CarBuddy](https://car-buddy-app.vercel.app/)
 
@@ -28,5 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carms22&show_icons=true&locale=en" alt="carms22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carms22&" alt="carms22" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carms22&label=Profile%20views&color=0e75b6&style=flat" alt="carms22" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carms22" alt="carms22" /></a> </p>
 
 # Carms22
