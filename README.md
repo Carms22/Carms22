@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carmen García</h1>
 <h3 align="center">A Full Stack Developer from Madrid</h3>
--**My background:** I am a Full Stack Web Developer with Building Engineer degree and 6 years of experience as BIM modeller working in a team ,solving problems and I'm a hard worker with a " yes I can" in my mind.</h4>
--**My motivations:** I love learning new things and in the past years I haver been studing some programing curses to improving my carrer , until I realize that I really like it and  it was time to jump into it and being a programer.
-I really love solving problems, learning every day new things and becoming better in what I do.</h4>
--**My career plans:** I would love to build on the knowledge gained at the bootcamp and learn as much as I can with the support of the team and become a great full stack developer.</h4>
+
+-**My background:** 
+I am a Full Stack Web Developer with Building Engineer degree and 6 years of experience as BIM modeller working in a team ,solving problems and I'm a hard worker with a " yes I can" in my mind.
+
+-**My motivations:** 
+I love learning new things and in the past years I haver been studing some programing curses to improving my carrer , until I realize that I really like it and  it was time to jump into it and being a programer.
+I really love solving problems, learning every day new things and becoming better in what I do.
+
+-**My career plans:** 
+I would love to build on the knowledge gained at the bootcamp and learn as much as I can with the support of the team and become a great full stack developer.
 
 
 
